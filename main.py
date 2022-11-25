@@ -15,4 +15,4 @@ async def on_message(message):
     if message.content.startswith('玖夜'):
         await message.channel.send('哦呀？')
 
-client.run(os.getenv('MTA0NTY1MzY4ODQ1NjMxOTAwNw.Gvep4p.A-CiyJAJLKmmXC58BIIBxkc9rDzgD2j6tAqfXk'))
+client.run('MTA0NTY1MzY4ODQ1NjMxOTAwNw.Gvep4p.A-CiyJAJLKmmXC58BIIBxkc9rDzgD2j6tAqfXk')
